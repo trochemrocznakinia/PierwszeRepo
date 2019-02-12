@@ -160,7 +160,7 @@ class EntryPoint
         //    Console.ForegroundColor = ConsoleColor.Red;
         //    Console.WriteLine($"Pojawił się wyjątek: {exception.Message}");
         //    Console.ForegroundColor = ConsoleColor.Gray;
-        //}
+        //55/}
 
         Thread.Sleep(3000);
 
