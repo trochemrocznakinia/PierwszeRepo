@@ -144,7 +144,7 @@ class EntryPoint
         CzekajAzElementWidoczny("ctl00_cphMain_TabOffers_ctrLiabilities_ddlfirstInstalmentDate");
 
         //OFERTA
-        PrzekazanieWartosciDoPolaJS("ctl00_cphMain_TabOffers_ctrLiabilities_ddlfirstInstalmentDate", "2019-02-22 00:00:00");
+        PrzekazanieWartosciDoPolaJS("ctl00_cphMain_TabOffers_ctrLiabilities_ddlfirstInstalmentDate", "2019-03-22 00:00:00");
         KlikniecieWPoleJS("ctl00_cphMain_TabOffers_ctrLiabilities_btnRecalulateOffers_btnRecalulateOffers_btnRecalulateOffers");
         CzekajAzElementNiewidoczny("overlay");
         KlikniecieWButton("ctl00_cphMain_TabOffers_rbSelectCashCredit");
